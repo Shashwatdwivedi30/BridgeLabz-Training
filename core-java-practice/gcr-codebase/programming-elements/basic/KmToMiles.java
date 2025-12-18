@@ -5,6 +5,6 @@ public class KmToMiles {
         Scanner sc = new Scanner(System.in);
         int km = sc.nextInt();
         double miles = km * 0.621371;
-        System.out.println();
+        System.out.println("The distance "+km+" km in miles is " +miles);
     }
 }
