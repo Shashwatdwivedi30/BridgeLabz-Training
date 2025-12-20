@@ -11,6 +11,7 @@ It documents my day-wise learning progress, hands-on practice, and structured co
 The repository is organized in a modular and clean way.  
 Currently, all foundational Core Java work resides in the core-java-practice branch.
 
+```
 BridgeLabz-Training/
 ├── core-java-practice/
 │ └── gcr-codebase/
@@ -23,7 +24,7 @@ BridgeLabz-Training/
 │ └── core-java/
 │
 └── README.md
-
+```
 
 
 ## 🛠 Phase 1: Basics & Environment Setup
@@ -127,7 +128,7 @@ Solved basic Java programs focused on arithmetic operations and formulas:
 
 ## 📅 Day 4 – 19 December
 
-#### ✅ Control Flow Statements (Today’s Focus 🔥)
+#### ✅ Control Flow Statements 
 Practiced and implemented Control Flow programs including:
 
 - if–else statements  
@@ -139,6 +140,16 @@ Practiced and implemented Control Flow programs including:
 
 📌 All Control Flow programs are available inside  
 gcr-codebase/programming-elements/control-flows/
+
+
+
+#### 📅 Day 5 - 20 December
+
+#### ✅ Arrays (Today’s Focus 🔥)
+- Implemented Arrays and 2D Arrays in Core Java
+- Practiced: Arrays, Multi-Dimensional Arrays & Scenerio Based Problems
+- Solved Level 1, Level 2 of Arrays
+- Solved Few Scenerio Based problem based on real life
 
 
 ## 🎯 Learning Outcomes
@@ -168,3 +179,4 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
