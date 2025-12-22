@@ -145,11 +145,21 @@ gcr-codebase/programming-elements/control-flows/
 
 #### 📅 Day 5 - 20 December
 
-#### ✅ Arrays (Today’s Focus 🔥)
+#### ✅ Arrays 
 - Implemented Arrays and 2D Arrays in Core Java
 - Practiced: Arrays, Multi-Dimensional Arrays & Scenerio Based Problems
 - Solved Level 1, Level 2 of Arrays
 - Solved Few Scenerio Based problem based on real life
+
+
+
+#### 📅 Day 5 – 22 December
+
+#### ✅ Strings (Today’s Focus 🔥)
+- Implemented **String, StringBuilder, and StringBuffer** in Core Java
+- Practiced **string creation, immutability, and common string methods**
+- Solved **Level 1, Level 2 and Level 3 string problems**
+- Worked on **scenario-based problems using real-life text examples**
 
 
 ## 🎯 Learning Outcomes
@@ -179,4 +189,5 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
