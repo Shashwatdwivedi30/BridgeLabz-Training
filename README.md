@@ -153,13 +153,26 @@ gcr-codebase/programming-elements/control-flows/
 
 
 
-#### 📅 Day 5 – 22 December
+#### 📅 Day 6 – 22 December
 
-#### ✅ Strings (Today’s Focus 🔥)
+#### ✅ Strings 
 - Implemented **String, StringBuilder, and StringBuffer** in Core Java
 - Practiced **string creation, immutability, and common string methods**
 - Solved **Level 1, Level 2 and Level 3 string problems**
 - Worked on **scenario-based problems using real-life text examples**
+
+
+
+#### 📅 Day 7-8 – 23-24 December
+
+### 📅 Methods
+
+* Implemented **methods** in Core Java (static, non-static, and parameterized)
+* Practiced **method declaration, definition, and invocation**
+* Worked with **method parameters, return types, and method overloading**
+* Understood **code reusability and modular programming** using methods
+* Solved **Level 1, Level 2, and Level 3** problems based on methods
+* Applied methods to **scenario-based problems** for real-life use cases
 
 
 ## 🎯 Learning Outcomes
@@ -189,5 +202,6 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
