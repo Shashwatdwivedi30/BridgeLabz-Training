@@ -52,5 +52,6 @@ public class TheCoffeeCounter {
             double total_bill = bill + GST;       //Total bill of the coffee along with GST
             System.out.println("The total bill is "+total_bill);
         } 
+        sc.close();
     }
 }
