@@ -13,17 +13,36 @@ Currently, all foundational Core Java work resides in the core-java-practice bra
 
 ```
 BridgeLabz-Training/
-├── core-java-practice/
-│ └── gcr-codebase/
-│ └── programming-elements/
-│ ├── Level-1/
-│ ├── Level-2/
-│ └── control-flows/
-│
-├── leet-code-codebase/
-│ └── core-java/
-│
-└── README.md
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |   |
+|   |   +-- arrays/
+|   |   |
+|   |   +-- strings/
+|   |   |
+|   |   +-- methods/
+|   |   |
+|   |   +-- extra/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- oops-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- classes-and-object/
+|   |
++-- review (Branch & Folder Name)
+|   |
++-- README.md
 ```
 
 
@@ -55,13 +74,14 @@ This phase focuses on:
 ### 💻 Core Java – LeetCode Practice
 Solved basic Java problems to improve logic and problem-solving skills:
 
-- ✅ Two Sum  
-- ✅ Running Sum of 1D Array  
-- ✅ Richest Customer Wealth  
-- ✅ Palindrome Number  
-- ✅ Find Numbers with Even Number of Digits  
+- ✅ Odd Even Number  
+- ✅ Number with power 3  
+- ✅ Reverse a string  
+- ✅ Sum and Product of Digits
+- ✅ Sorting an Array  
 
 📌 All Java solutions are available inside the leet-code-codebase folder.
+🔗 [Browse LeetCode solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/basic)
 
 
 
@@ -90,6 +110,7 @@ Solved basic Java programs focused on arithmetic operations and formulas:
 - ✅ Welcome to BridgeLabz Program  
 
 📌 All programs are available inside gcr-codebase/programming-elements.
+🔗 [Browse Programming Elements](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/basic)
 
 
 
@@ -122,7 +143,10 @@ Solved basic Java programs focused on arithmetic operations and formulas:
 - Operator precedence  
 - Combining multiple operations  
 - Logical expressions  
-- Writing structured and optimized code  
+- Writing structured and optimized code
+
+📌 All Control Flow programs are available inside gcr-codebase/programming-elements
+🔗 [Browse Programming Elements](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 
 
@@ -138,28 +162,36 @@ Practiced and implemented Control Flow programs including:
 - do–while loop  
 - Conditional logic & decision making  
 
-📌 All Control Flow programs are available inside  
-gcr-codebase/programming-elements/control-flows/
+📌 All Control Flow programs are available inside gcr-codebase/control-flows/
+🔗 [Browse Control Flow programs](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 
 
 #### 📅 Day 5 - 20 December
 
 #### ✅ Arrays 
-- Implemented Arrays and 2D Arrays in Core Java
-- Practiced: Arrays, Multi-Dimensional Arrays & Scenerio Based Problems
+
+- Implemented **Arrays and 2D Arrays** in Core Java
+- Practiced: **Arrays, Multi-Dimensional Arrays** & Scenerio Based Problems
 - Solved Level 1, Level 2 of Arrays
 - Solved Few Scenerio Based problem based on real life
+
+  📌 All Array programs are available inside gcr-codebase/arrays/
+🔗 [Browse Array programs](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 
 
 #### 📅 Day 6 – 22 December
 
 #### ✅ Strings 
+
 - Implemented **String, StringBuilder, and StringBuffer** in Core Java
 - Practiced **string creation, immutability, and common string methods**
 - Solved **Level 1, Level 2 and Level 3 string problems**
 - Worked on **scenario-based problems using real-life text examples**
+
+📌 All String programs are available inside gcr-codebase/strings/
+🔗 [Browse String programs](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 
 
@@ -173,6 +205,39 @@ gcr-codebase/programming-elements/control-flows/
 * Understood **code reusability and modular programming** using methods
 * Solved **Level 1, Level 2, and Level 3** problems based on methods
 * Applied methods to **scenario-based problems** for real-life use cases
+
+📌 All Method programs are available inside gcr-codebase/methods/
+🔗 [Browse Method programs](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+
+
+### 📅 Day 9-10 – 26 December & 29 December
+
+### 📅 Methods & Strings
+
+* Solved **extra practice questions** on Strings and Methods
+* Implemented methods in Core Java (static, non-static, and parameterized)
+* Practiced method declaration, definition, and invocation
+* Practiced string operations using built-in String methods
+* Applied **methods and strings to scenario-based problems** for real-life use cases
+
+📌 All Method and Strings extra programs are available inside gcr-codebase/methods/
+🔗 [Browse Methods extra programs](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+
+
+### 📅 Day 11 – 30 December
+
+### 📅 Scenario-Based Problems
+
+* Solved **real-life scenario-based problems** using Core Java concepts
+* Applied methods and strings to break problems into reusable logic
+* Designed solutions using modular programming for better readability
+* Implemented **conditional logic and loops** to handle different scenarios
+* Improved problem-solving and logical thinking through **practical use cases**
+
+📌 All scenario-based programs are available inside core-java-practice/scenario-based
+🔗 [Browse Scenario-Based solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 
 ## 🎯 Learning Outcomes
@@ -202,6 +267,7 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
 
