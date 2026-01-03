@@ -47,9 +47,9 @@ BridgeLabz-Training/
 
 ___
 
-🗓 Week 1: Git, GitHub & Core Java Fundamentals
+### 🗓 Week 1: Git, GitHub & Core Java Fundamentals
 
-📅 16-Dec-2025 (Tuesday)
+#### 📅 16-Dec-2025 (Tuesday)
 Version Control & Problem Solving Foundations
 
 - Successfully set up GitHub repository and integrated it with VS Code for streamlined development
@@ -59,7 +59,7 @@ Version Control & Problem Solving Foundations
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/basic)
 ___
 
-📅 17-Dec-2025 (Wednesday)
+#### 📅 17-Dec-2025 (Wednesday)
 Git Workflow Mastery & Programming Elements
 
 - Deepened understanding of Git Bash commands and complete version control workflow
@@ -69,7 +69,7 @@ Git Workflow Mastery & Programming Elements
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/basic)
 ___
 
-📅 18-Dec-2025 (Thursday)
+#### 📅 18-Dec-2025 (Thursday)
 Repository Architecture & Advanced Problem Solving
 
 - Designed and implemented organized repository structure with Level 1, Level 2, and Control Flow directories
@@ -79,7 +79,7 @@ Repository Architecture & Advanced Problem Solving
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 ___
 
-📅 19-Dec-2025 (Friday)
+#### 📅 19-Dec-2025 (Friday)
 Control Flow Statements Implementation
 
 - Mastered Control Flow Statements in Core Java through hands-on practice
@@ -89,7 +89,7 @@ Control Flow Statements Implementation
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 ___
 
-📅 20-Dec-2025 (Saturday)
+#### 📅 20-Dec-2025 (Saturday)
 Arrays & Multi-Dimensional Data Structures
 
 - Explored Arrays and 2D Arrays concepts in Core Java with practical implementations
@@ -100,9 +100,9 @@ Arrays & Multi-Dimensional Data Structures
 
 ___
 
-🗓 Week 2: Advanced Core Java Concepts
+### 🗓 Week 2: Advanced Core Java Concepts
 
-📅 22-Dec-2025 (Monday)
+#### 📅 22-Dec-2025 (Monday)
 String Manipulation & Weekly Review
 
 - Mastered String class and its extensive collection of methods in Core Java
@@ -112,7 +112,7 @@ String Manipulation & Weekly Review
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 ___
 
-📅 23-Dec-2025 (Tuesday)
+#### 📅 23-Dec-2025 (Tuesday)
 Exception Handling & Scenario-Based Problem Solving
 
 - Implemented robust String operations and Exception handling mechanisms in Core Java
@@ -121,7 +121,7 @@ Exception Handling & Scenario-Based Problem Solving
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 ___
 
-📅 24-Dec-2025 (Wednesday)
+#### 📅 24-Dec-2025 (Wednesday)
 Methods & Mathematical Functions
 
 - Explored method creation, overloading, and parameter passing in Core Java
@@ -130,7 +130,7 @@ Methods & Mathematical Functions
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 ___
 
-📅 26-Dec-2025 (Friday)
+#### 📅 26-Dec-2025 (Friday)
 Built-In Functions & Concept Consolidation
 
 - Tackled additional problems on Strings and method handling for deeper understanding
@@ -141,9 +141,9 @@ Built-In Functions & Concept Consolidation
 
 ___
 
-🗓 Week 3: Object-Oriented Programming Principles
+### 🗓 Week 3: Object-Oriented Programming Principles
 
-📅 29-Dec-2025 (Monday)
+#### 📅 29-Dec-2025 (Monday)
 Advanced String Operations & Scenario Analysis
 
 - Solved complex scenario-based questions requiring integrated problem-solving approaches
@@ -152,7 +152,7 @@ Advanced String Operations & Scenario Analysis
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 ___
 
-📅 30-Dec-2024 (Tuesday)
+#### 📅 30-Dec-2024 (Tuesday)
 Introduction to Object-Oriented Programming
 
 - Learned fundamental OOP concepts including Classes and Objects
@@ -161,7 +161,7 @@ Introduction to Object-Oriented Programming
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-object)
 ___
 
-📅 31-Dec-2025 (Wednesday)
+#### 📅 31-Dec-2025 (Wednesday)
 Constructors, Access Modifiers & Inheritance
 
 - Implemented various types of constructors (default, parameterized, copy constructors)
@@ -171,7 +171,7 @@ Constructors, Access Modifiers & Inheritance
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-variables)
 ___
 
-📅 01-Jan-2026 (Thursday)
+#### 📅 01-Jan-2026 (Thursday)
 Keywords, instanceof Operator & Advanced String Handling
 
 - Explored Java keywords including this, super, static, and final
@@ -181,7 +181,7 @@ Keywords, instanceof Operator & Advanced String Handling
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-variables)
 ___
 
-📅 02-Jan-2025 (Friday)
+#### 📅 02-Jan-2025 (Friday)
 Object Modeling & UML Diagrams
 
 - Learned to design and draw Class diagrams representing object relationships
@@ -191,7 +191,7 @@ Object Modeling & UML Diagrams
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Object%20Oriented%20Design%20Principles)
 ___
 
-📅 03-Jan-2025 (Saturday)
+#### 📅 03-Jan-2025 (Saturday)
 *Inheritence & its types with interface
 
 - Learned about inheritence and its types with interface
@@ -227,6 +227,7 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
 
