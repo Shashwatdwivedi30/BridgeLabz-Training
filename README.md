@@ -208,7 +208,7 @@ Encapsulation, Polymorphism, Interface and Abstract Class
 
 - Learned about Encapsulation, Polymorphism, Interface and Abstract ClassEncapsulation, Polymorphism, Interface and Abstract Class
 - Solved problems based on Encapsulation, Polymorphism, Interface and Abstract Class
-- Solved few scenerio based questions based on OOPS concept
+- Solved few scenerio based questions based on OOPS concept<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Encapsulation%2C%20Polymorphism%2C%20Interface%20%26%20Abstract)
 ___
 
@@ -217,7 +217,7 @@ Core Java Practice with Scenerio based problems
 
 - Solved multiple problems covering Arrays, Strings, Methods, and Exception Handling
 - Practiced writing reusable methods and handling edge cases using exceptions
-- Strengthened overall understanding of Core Java fundamentals through hands-on coding
+- Strengthened overall understanding of Core Java fundamentals through hands-on coding<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 ___
 
@@ -226,7 +226,7 @@ OOPS practice with Story baseed Scenerios
 
 - Solved several story-based problem statements
 - Designed and developed fully working Java programs using all major OOPS concepts
-- Applied Encapsulation, Inheritance, Polymorphism, Abstraction, and Interfaces in real-world scenarios
+- Applied Encapsulation, Inheritance, Polymorphism, Abstraction, and Interfaces in real-world scenarios<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 ___
 
@@ -235,7 +235,7 @@ DSA Linkedlist
 
 - Learned about Linked List and its different types Singly Linked List,Doubly Linked ListandCircular Linked List
 - Implemented and solved problems based on Linked List operations such as insertion, deletion, and traversal
-- Improved understanding of dynamic data structures and pointer/reference manipulation
+- Improved understanding of dynamic data structures and pointer/reference manipulation<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linked%20List)
 ___
 
@@ -244,7 +244,7 @@ DSA Linkedlist and Scenerio based Problems
 
 - Solved several story-based problem statements
 - Designed and developed fully working Java programs using all major OOPS concepts
-- Solved few questions based on the types of Linkedlist
+- Solved few questions based on the types of Linkedlist<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linked%20List)
 
 ___
@@ -255,7 +255,7 @@ ___
 Scenerio based Problems
 
 - Solved several story-based problem statements
-- Designed and developed fully working Java programs using all major OOPS concepts
+- Designed and developed fully working Java programs using all major OOPS concepts<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 ___
 
@@ -264,7 +264,7 @@ Scenerio based Problems & Git flow practice
 
 - Solved several story-based problem statements
 - Designed and developed fully working Java programs using all major OOPS concepts
-- Revised the github flow with practicals and implementations
+- Revised the github flow with practicals and implementations<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack%2C%20Queue%2C%20Hash%20Map%20%26%20Hash%20Function)
 ___
 
@@ -273,7 +273,7 @@ DSA Fundamentals & Sorting techniques
 
 - Learned about different sorting techniques
 - Practiced with few questions on Leet Code
-- Learned and Solved problems based on Stack, Queue & Hashmap
+- Learned and Solved problems based on Stack, Queue & Hashmap<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack%2C%20Queue%2C%20Hash%20Map%20%26%20Hash%20Function)
 ___
 
@@ -304,6 +304,7 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
 
