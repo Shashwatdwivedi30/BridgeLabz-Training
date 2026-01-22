@@ -277,6 +277,63 @@ DSA Fundamentals & Sorting techniques
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack%2C%20Queue%2C%20Hash%20Map%20%26%20Hash%20Function)
 ___
 
+#### 📅 15-Jan-2025 (Thursday)
+Sorting techniques
+
+- Learned about different sorting techniques
+- Practiced with problems based on different sorting techniques
+- Participated in comprehensive weekly review session with external mentor for feedback and improvement<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Sorting)
+___
+
+#### 📅 16-Jan-2025 (Friday)
+Sorting techniques & OOPS mini project
+
+- Learned about different sorting techniques
+- Practiced with problems based on different sorting techniques
+- Worked on Address book system project till use case 3<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Sorting)
+___
+
+#### 📅 17-Jan-2025 (Saturday)
+Searching Algorithms & OOPS mini project
+
+- Learned about different searching algorithm Linear Search and Binary Search
+- Practiced with problems based on different searching algorithm, StringBuilder, StringBuffer and FileReader
+- Worked on Address book system project till use case 5<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linear%26BinarySearch)
+
+___
+
+### 🗓 Week 6: DSA Practice & Collections Fundamentals
+
+#### 📅 19-Jan-2026 (Monday)
+Runtime Analysis & Scenario based DSA problems
+
+- Solved complex scenario-based questions requiring DSA problem-solving approaches
+- Deepened knowledge of Runtime Analysis
+- Strengthened analytical and logical reasoning skills through challenging problems<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Algorithm'sRuntimeAnalysis)
+___
+
+#### 📅 20-Jan-2026 (Tuesday)
+Generics fundamentals & Scenario based DSA problems
+
+- Solved complex scenario-based questions requiring DSA problem-solving approaches
+- Deepened knowledge of Generics in Collection
+- Strengthened analytical and logical reasoning skills through challenging problems<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+___
+
+#### 📅 21-Jan-2026 (Wednesday)
+Generics based problems & Weekly Review
+
+- Solved complex scenario-based questions requiring Generics problem-solving approaches
+- Deepened knowledge of Generics in Collection
+- Improved understanding of collections and exceptions
+- Participated in comprehensive weekly review session with external mentor for feedback and improvement<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
+
 ## 🎯 Learning Outcomes
 
 - Strong foundation in Git & GitHub
@@ -304,6 +361,7 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
 
