@@ -333,6 +333,35 @@ Generics based problems & Weekly Review
 - Improved understanding of collections and exceptions
 - Participated in comprehensive weekly review session with external mentor for feedback and improvement<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
+___
+
+#### 📅 22-Jan-2026 (Thursday)
+Collections & Scenerio based problem
+
+- Solved complex scenario-based questions requiring collections problem-solving approaches
+- Solved problems based on Collection
+- Improved understanding of collections<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+___
+
+#### 📅 23-Jan-2026 (Friday)
+Java streams & Scenerio based problem
+
+- Solved complex scenario-based questions requiring collections problem-solving approaches
+- Solved problems based on java streams<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+
+___
+
+### 🗓 Week 7: Collections
+
+#### 📅 27-Jan-2025 (Tuesday)
+Exception handling and Scenerio based Problems
+
+- Solved several story-based problem statements
+- Deepened knowledge of Exception handling
+- Solved complex problems based on Exceptions<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)
 
 ## 🎯 Learning Outcomes
 
@@ -361,6 +390,7 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
 
