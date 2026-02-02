@@ -9,7 +9,7 @@ abstract class GoodsTransport {
     public GoodsTransport(String transportId, String transportDate, int transportRating) {
         this.transportId = transportId;
         this.transportDate = transportDate;
-        this.transportRating = transportRating;
+        this.transportRating = transportRating; 
     }
 
     public String getTransportId() { return transportId; }
