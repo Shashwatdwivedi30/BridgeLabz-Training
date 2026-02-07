@@ -56,7 +56,7 @@ class VesselUtil {
     }
 }
 
-public class Main {
+public class OceanFleet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         VesselUtil util = new VesselUtil();
