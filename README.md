@@ -417,7 +417,7 @@ ___
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/Collectors)
 ___
 
-📅####  07-Feb-2026 (Saturday)
+#### 📅 07-Feb-2026 (Saturday)
 
 - Implemented VesselNavigation scenario
 - Developed modular system structure
@@ -488,6 +488,7 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
 
