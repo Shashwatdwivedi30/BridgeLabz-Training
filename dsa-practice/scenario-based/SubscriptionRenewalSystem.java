@@ -150,7 +150,7 @@ public class SubscriptionRenewalSystem{
         try {
             processor.autoRenewAll();
         } catch (PaymentDeclinedException e) {
-            System.err.println(e.getMessage());
+            System.out.println(e.getMessage());
         }
     }
 }
