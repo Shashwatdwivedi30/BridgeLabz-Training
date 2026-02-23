@@ -362,6 +362,104 @@ Exception handling and Scenerio based Problems
 - Deepened knowledge of Exception handling
 - Solved complex problems based on Exceptions<br>
 📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)
+___
+
+#### 📅 28-Jan-2026 (Wednesday)
+
+- Implemented LexicalTwist & CleanseAndInvert (Core Java)
+- Practiced scenario-based string problems
+- Developed Restaurant (HashMap & Exceptions)
+- Implemented BackupScheduler (Priority Queue)<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+___
+
+#### 📅 30-Jan-2026 (Friday)
+
+- Created Regex practice directory
+- Implemented validation & pattern matching tasks
+- Set up JUnit with Maven structure
+- Tested multiple utility and exception classes<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+___
+
+#### 📅 02-Feb-2026 (Monday)
+
+- Implemented StreamBuzz using Collections
+- Practiced Reflection API examples
+- Developed built-in & custom annotations
+- Strengthened advanced Java concepts<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+___
+
+#### 📅 03-Feb-2026 (Tuesday)
+
+- Implemented RobotAuditSystem & FlightManagementSystem
+- Practiced Custom Exceptions
+- Created Java 8 features branch<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)
+___
+
+#### 📅 04-Feb-2026 (Wednesday)
+
+- Implemented Lambda expression examples
+- Practiced Functional Interfaces
+- Developed custom & marker interfaces
+- Improved Java 8 concepts<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/Lambda%20Function)
+___
+
+#### 📅 05-Feb-2026 (Thursday)
+
+- Practiced Collectors (Grouping, Counting, Summing)
+- Implemented Student & Order scenarios
+- Developed Queue, Set & Map-based systems
+- Built LinkedList & Stack applications<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/Collectors)
+___
+
+📅####  07-Feb-2026 (Saturday)
+
+- Implemented VesselNavigation scenario
+- Developed modular system structure
+- Practiced performance tracking logic
+- Strengthened scenario-based design<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+___
+
+#### 📅 08-Feb-2026 (Sunday)
+
+- Implemented Observer & Factory patterns
+- Developed BankSystem (Multithreading)
+- Practiced concurrent transactions
+- Improved design pattern understanding<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase)
+___
+
+#### 📅 09-Feb-2026 (Monday)
+
+- Refactored HealthClinicApp structure
+- Implemented "View All Patients" feature
+- Developed JobPortal & EventAnalyzer
+- Added JUnit testing for BankAccount<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+___
+
+#### 📅 16-Feb-2026 (Sunday)
+
+- Implemented Employee Wage computation
+- Applied procedural & OOP approaches
+- Practiced scenario-based design
+- Strengthened object modeling<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+___
+
+#### 📅 17-Feb-2026 (Monday)
+
+- Implemented AddressBook UC11–UC18
+- Added sorting by City, State & Zip
+- Implemented File IO (.txt, .csv, .json)
+- Integrated JSON Server & JDBC with multithreading<br>
+📂 [View Solutions](https://github.com/Shashwatdwivedi30/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/AddressBookProblem)
 
 ## 🎯 Learning Outcomes
 
@@ -390,6 +488,7 @@ Consistency + Practice = Growth 🚀
 This repository will continue to evolve as I progress further in my BridgeLabz journey.
 
 Keep Learning & Keep Building!
+
 
 
 
