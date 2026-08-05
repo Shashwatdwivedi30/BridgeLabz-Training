@@ -67,13 +67,13 @@ status ENUM('Scheduled', 'Completed', 'Cancelled') DEFAULT 'Scheduled',
 FOREIGN KEY (patient_id) REFERENCES patients(patient_id),
 FOREIGN KEY (doctor_id) REFERENCES doctors(doctor_id),
 INDEX idx_patient_id (patient_id),
-INDEX idx_doctor_date (doctor_id, appointment_date) -- composite index
+INDEX idx_doctor_date (doctor_id, appointment_date) 
 );
 
 
 CREATE TABLE billing (
 bill_id INT AUTO_INCREMENT PRIMARY KEY,
-appointment_id INT NOT NULL UNIQUE, -- UNIQUE enforces 1:1
+appointment_id INT NOT NULL UNIQUE,
 amount DECIMAL(10,2) NOT NULL,
 payment_status ENUM('Pending', 'Paid', 'Refunded') DEFAULT 'Pending',
 billing_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
@@ -83,7 +83,7 @@ FOREIGN KEY (appointment_id) REFERENCES appointments(appointment_id)
 
 CREATE TABLE visit_history (
 visit_id INT AUTO_INCREMENT PRIMARY KEY,
-appointment_id INT NOT NULL UNIQUE, -- UNIQUE enforces 1:1
+appointment_id INT NOT NULL UNIQUE, 
 diagnosis VARCHAR(255),
 prescription VARCHAR(255),
 visit_notes TEXT,
@@ -105,7 +105,8 @@ INSERT INTO billing (appointment_id, amount, payment_status)
 VALUES (1, 1500.00, 'Pending');
 INSERT INTO visit_history (appointment_id, diagnosis, prescription, visit_notes)
 VALUES (1, 'Routine Checkup', 'None', 'Patient in good health');
--- Verify with a join
+
+
 SELECT p.first_name, p.last_name, d.first_name AS doctor_name,
 a.appointment_date, b.amount, v.diagnosis
 FROM appointments a
@@ -140,15 +141,20 @@ VALUES
 
 
 INSERT INTO doctor_room (doctor_id, room_id)
-VALUES
-(1, 2);
+VALUES (1, 2);
+
+
+EXPLAIN SELECT * FROM Appointments
+WHERE Status = 'Scheduled';
+
+
+EXPLAIN SELECT * FROM Appointments
+WHERE DoctorID = 1
+AND AppointmentDate = '2026-08-03';
 
 
 CREATE INDEX idx_covering_appointments
 ON appointments (doctor_id, appointment_date, status);
-
-SELECT doctor_id, appointment_date, status
-FROM appointments;
 
 
 EXPLAIN SELECT doctor_id, appointment_date, status FROM appointments;
