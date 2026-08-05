@@ -1,7 +1,6 @@
 # Refresher-Training
 ---
-___
-###📚 Overview
+### 📚 Overview
 
 This repository contains the learning materials, SQL scripts, and practical exercises covered during the Database Programming Refresher Training. The training focuses on DBMS fundamentals, RDBMS concepts, SQL, ER diagrams, indexing, and database normalization.
 
@@ -44,10 +43,10 @@ ___
 #### Day 1 – DBMS Fundamentals & RDBMS Basics (31/07/26)
 ---
 
-### 🎯 Topic Covered
+#### 🎯 Topic Covered
 **DBMS Fundamentals & RDBMS Basics**
 
-### 📖 Content Covered
+📖 Content Covered
 
 - Introduction to Database Management Systems (DBMS)
 - Different Types of DBMS
@@ -81,31 +80,32 @@ ___
 ER Diagram, Indexing & Normalization
 
 📖 Content Covered
-Introduction to Entity Relationship (ER) Diagrams
-ER Diagram Design Principles
-Entities
-Attributes
-Relationships
-Cardinality
-Designing Database Structures using ER Diagrams
-Introduction to Database Indexing
-Purpose of Indexes
-How Indexing Improves Query Performance
-Performance Impact of Indexing
-Database Normalization
-Normalization Forms:
-1NF – First Normal Form
-2NF – Second Normal Form
-3NF – Third Normal Form
-BCNF – Boyce-Codd Normal Form
+- Introduction to Entity Relationship (ER) Diagrams
+- ER Diagram Design Principles
+- Entities
+- Attributes
+- Relationships
+- Cardinality
+- Designing Database Structures using ER Diagrams
+- Introduction to Database Indexing
+- Purpose of Indexes
+- How Indexing Improves Query Performance
+- Performance Impact of Indexing
+- Database Normalization
+- Normalization Forms:
+-   1NF – First Normal Form
+-   2NF – Second Normal Form
+-   3NF – Third Normal Form
+-   BCNF – Boyce-Codd Normal Form
+   
 🛠️ Practical Work
-Designing ER Diagrams
-Identifying Entities and Relationships
-Defining Cardinality between Entities
-Creating Tables based on ER Diagrams
-Understanding Index Creation
-Analyzing Query Performance with Indexes
-Applying Normalization Rules to Database Tables
+- Designing ER Diagrams
+- Identifying Entities and Relationships
+- Defining Cardinality between Entities
+- Creating Tables based on ER Diagrams
+- Understanding Index Creation
+- Analyzing Query Performance with Indexes
+- Applying Normalization Rules to Database Tables
 ---
 
 
@@ -117,62 +117,61 @@ Applying Normalization Rules to Database Tables
 SQL Joins, Stored Procedures & Triggers
 
 📖 Content Covered
-
-SQL Joins
-INNER JOIN
-LEFT JOIN
-RIGHT JOIN
-FULL OUTER JOIN
-SELF JOIN
-CROSS JOIN
-Multiple Table JOIN
-Stored Procedures
-Why Stored Procedures
-Creating Procedures
-Calling Procedures
-IN Parameter
-OUT Parameter
-INOUT Parameter
-Error Handling
-Triggers
-BEFORE INSERT
-AFTER INSERT
-BEFORE UPDATE
-AFTER UPDATE
-BEFORE DELETE
-AFTER DELETE
+- SQL Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- SELF JOIN
+- CROSS JOIN
+- Multiple Table JOIN
+- Stored Procedures
+- Why Stored Procedures
+- Creating Procedures
+- Calling Procedures
+- IN Parameter
+- OUT Parameter
+- INOUT Parameter
+- Error Handling
+- Triggers
+- BEFORE INSERT
+- AFTER INSERT
+- BEFORE UPDATE
+- AFTER UPDATE
+- BEFORE DELETE
+- AFTER DELETE
 
 🛠️ Practical Work
 
-Writing SQL queries using different types of JOINs
-Combining data from multiple related tables
-Creating and calling Stored Procedures
-Working with IN, OUT and INOUT parameters
-Implementing Error Handling in Stored Procedures
-Creating BEFORE and AFTER Triggers
-Using Triggers for data validation and business rules
-Creating Audit Triggers for tracking database changes
-Maintaining Visit History using Triggers
-Working with the Health Clinic Database Schema
+- Writing SQL queries using different types of JOINs
+- Combining data from multiple related tables
+- Creating and calling Stored Procedures
+- Working with IN, OUT and INOUT parameters
+- Implementing Error Handling in Stored Procedures
+- Creating BEFORE and AFTER Triggers
+- Using Triggers for data validation and business rules
+- Creating Audit Triggers for tracking database changes
+- Maintaining Visit History using Triggers
+- Working with the Health Clinic Database Schema
 ---
 
 
 #### Day 4: Health Clinic Management System (JDBC + MySQL) (05/08/26)
 ---
 
-### Project Overview
+#### Project Overview
 In Day 4, I developed a Health Clinic Management System using Java JDBC and MySQL. T
 he main purpose of this project is to manage clinic-related data like patients, doctors,
 appointments, rooms, and medical records.
 
-### Technologies Used
+#### Technologies Used
 - Java
 - JDBC (Java Database Connectivity)
 - MySQL Database
 - MySQL Workbench
 - Git & GitHub
 
-### Database Implementation
+#### Database Implementation
 Created a relational database named `health clinic db` with multiple tables:
 
 - Patients
@@ -188,7 +187,7 @@ Implemented relationships between tables using:
 - Foreign Keys
 - Constraints
 
-### JDBC Concepts Implemented
+#### JDBC Concepts Implemented
 - Database connection using JDBC
 - Driver loading
 - Connection URL configuration
@@ -198,7 +197,7 @@ Implemented relationships between tables using:
   - Update
   - Delete
 
-### SQL Concepts Covered
+#### SQL Concepts Covered
 - Joins
 - Stored Procedures
 - Triggers
@@ -206,12 +205,12 @@ Implemented relationships between tables using:
 - Query Optimization using EXPLAIN
 - Normalization (1NF, 2NF, 3NF)
 
-### Key Learnings
+#### Key Learnings
 - How Java application connects with MySQL database using JDBC.
 - How to execute SQL queries from Java code.
 - How database design improves performance and data consistency.
 - Understanding of transactions and database relationships.
 
-### Project Status
+#### Project Status
 Completed successfully with database creation, JDBC connectivity, and SQL operations.
 ---
