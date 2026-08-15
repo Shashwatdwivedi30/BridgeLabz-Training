@@ -1,10 +1,10 @@
 package com.bridgelabz.greetingsApp.repository;
 
-import com.bridgelabz.greetingsApp.entity.GreetingApp;
+import com.bridgelabz.greetingsApp.GreetingsApp;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface GreetingRepository extends JpaRepository<GreetingApp,Long> {
-
+public interface GreetingRepository extends JpaRepository<GreetingsApp, Long> {
+    
 }

@@ -4,12 +4,11 @@ import com.bridgelabz.greetingsApp.entity.GreetingApp;
 import com.bridgelabz.greetingsApp.service.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController
 @RequestMapping("/greetings")
-public class GreetingController {
+public class GreetingController{
 
     @Autowired
     private GreetingService greetingService;
@@ -30,10 +29,9 @@ public class GreetingController {
     }
 
     @PutMapping("/{id}")
-    public GreetingApp updateApp(@PathVariable Long id,@RequestBody GreetingApp greetingReq){
+    public GreetingApp updateApp(@PathVariable Long id, @RequestBody GreetingApp greetingReq){
 
-        GreetingApp updated=greetingService.updateApp(id,greetingReq);
-
+        GreetingApp updated = greetingService.updateApp(id, greetingReq);
         return updated;
     }
 

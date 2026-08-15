@@ -8,17 +8,16 @@ import jakarta.persistence.Id;
 @Entity
 public class GreetingApp {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Id@GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String message;
 
     public GreetingApp(){}
     public GreetingApp(String message){
-        this.message=message;
+        this.message = message;
     }
 
-    public Long getId() {
+    public Long getId(){
         return id;
     }
 
@@ -32,5 +31,5 @@ public class GreetingApp {
 
     public void setMessage(String message) {
         this.message = message;
-    }
+    }    
 }

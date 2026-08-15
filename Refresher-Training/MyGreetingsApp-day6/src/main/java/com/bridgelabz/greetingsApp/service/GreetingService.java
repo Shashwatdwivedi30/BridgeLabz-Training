@@ -12,7 +12,7 @@ import static org.antlr.v4.runtime.tree.xpath.XPath.findAll;
 
 @Service
 public class GreetingService {
-
+    
     @Autowired
     private GreetingRepository greetingRepository;
 
@@ -20,23 +20,23 @@ public class GreetingService {
         return greetingRepository.save(greetingReq);
     }
 
-    public GreetingApp getGreeting(Long id){
-        Optional<GreetingApp> app= greetingRepository.findById(id);
+    public GreetingApp getGreeting(long id){
+        Optional<GreetingApp> app = greetingRepository.findById(id);
+
         if(app.isEmpty()) return null;
 
         return app.get();
     }
 
     public List<GreetingApp> getAll(){
-
-        List<GreetingApp> ll= greetingRepository.findAll();
+        List<GreetingApp> ll = greetingRepository.findAll();
         if(ll.isEmpty()) return null;
 
         return ll;
     }
 
     public GreetingApp updateApp(Long id, GreetingApp greetingReq){
-          Optional<GreetingApp> exist=greetingRepository.findById(id);
+        Optional<GreetingApp> exist = greetingRepository.findById(id);
           if(exist.isEmpty()) return null;
 
           GreetingApp toUpdate=exist.get();
@@ -51,5 +51,4 @@ public class GreetingService {
           greetingRepository.deleteById(id);
 
     }
-
 }
