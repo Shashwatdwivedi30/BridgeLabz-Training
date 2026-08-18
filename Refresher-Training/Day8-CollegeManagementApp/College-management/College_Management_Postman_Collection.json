@@ -1,0 +1,195 @@
+{
+  "info": {
+    "name": "College Management API",
+    "description": "Postman Collection for Student and Faculty CRUD Operations",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Students",
+      "item": [
+        {
+          "name": "1. Create Student",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Alice Smith\",\n  \"email\": \"alice.smith@college.edu\",\n  \"department\": \"Computer Science\",\n  \"rollNumber\": \"CS2026001\",\n  \"cgpa\": 3.85\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8080/api/students",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "students"]
+            }
+          }
+        },
+        {
+          "name": "2. Get All Students",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8080/api/students",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "students"]
+            }
+          }
+        },
+        {
+          "name": "3. Get Student By ID",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8080/api/students/1",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "students", "1"]
+            }
+          }
+        },
+        {
+          "name": "4. Update Student",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Alice Johnson\",\n  \"email\": \"alice.smith@college.edu\",\n  \"department\": \"Data Science\",\n  \"rollNumber\": \"CS2026001\",\n  \"cgpa\": 3.95\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8080/api/students/1",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "students", "1"]
+            }
+          }
+        },
+        {
+          "name": "5. Delete Student",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8080/api/students/1",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "students", "1"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Faculties",
+      "item": [
+        {
+          "name": "1. Create Faculty",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Dr. Alan Turing\",\n  \"email\": \"alan.turing@college.edu\",\n  \"department\": \"Computer Science\",\n  \"designation\": \"Professor\",\n  \"salary\": 95000.00\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8080/api/faculties",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "faculties"]
+            }
+          }
+        },
+        {
+          "name": "2. Get All Faculties",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8080/api/faculties",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "faculties"]
+            }
+          }
+        },
+        {
+          "name": "3. Get Faculty By ID",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8080/api/faculties/1",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "faculties", "1"]
+            }
+          }
+        },
+        {
+          "name": "4. Update Faculty",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Dr. Alan Turing\",\n  \"email\": \"alan.turing@college.edu\",\n  \"department\": \"Computer Science & AI\",\n  \"designation\": \"Head of Department\",\n  \"salary\": 110000.00\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8080/api/faculties/1",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "faculties", "1"]
+            }
+          }
+        },
+        {
+          "name": "5. Delete Faculty",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8080/api/faculties/1",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "faculties", "1"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

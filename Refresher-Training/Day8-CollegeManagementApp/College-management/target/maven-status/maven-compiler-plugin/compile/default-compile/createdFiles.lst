@@ -1,0 +1,11 @@
+com\collegemanagement\service\FacultyService.class
+com\collegemanagement\dto\FacultyDTO.class
+com\collegemanagement\dto\StudentDTO.class
+com\collegemanagement\controller\StudentController.class
+com\collegemanagement\entity\Student.class
+com\collegemanagement\repository\FacultyRepository.class
+com\collegemanagement\service\StudentService.class
+com\collegemanagement\repository\StudentRepository.class
+com\collegemanagement\controller\FacultyController.class
+com\collegemanagement\entity\Faculty.class
+com\collegemanagement\CollegeManagementApplication.class
